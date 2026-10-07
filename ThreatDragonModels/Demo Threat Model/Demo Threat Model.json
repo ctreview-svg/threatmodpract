@@ -2016,17 +2016,18 @@
             }
           }
         ],
-        "version": "2.3.0",
+        "version": "2.6.2",
         "title": "Main Request Data Flow",
         "description": "",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
-        "diagramType": "STRIDE",
-        "id": 0
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "diagramType": "Generic",
+        "id": 0,
+        "placeholder": "New generic diagram description"
       }
     ],
     "diagramTop": 1,
     "reviewer": "Jane Smith",
     "threatTop": 0
   },
-  "version": "2.3.0"
+  "version": "2.6.2"
 }
